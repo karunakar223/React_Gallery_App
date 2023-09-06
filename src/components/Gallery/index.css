@@ -1,0 +1,32 @@
+/* Write your code here. */
+.bg-container {
+  min-height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Roboto';
+}
+
+.ul-container {
+  display: flex;
+  margin: 0px;
+}
+
+.image {
+  height: 500px;
+  width: 1000px;
+}
+
+.main-heading {
+  color: #1e293b;
+  font-size: 22px;
+  font-weight: 900;
+}
+
+.caption {
+  color: #64748b;
+  font-size: 14px;
+  font-weight: 500;
+}

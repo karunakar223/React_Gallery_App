@@ -1,0 +1,18 @@
+/* Write your code here. */
+.li-container {
+  list-style-type: none;
+}
+.btn {
+  border: none;
+  cursor: pointer;
+  background-color: transparent;
+}
+
+.img {
+  opacity: 0.5;
+  background-color: #ffffff;
+  margin-right: 5px;
+}
+.active {
+  opacity: 1;
+}
